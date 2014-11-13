@@ -1,4 +1,4 @@
 Hellow-world
 ============
 
-For a begining
+For a beginning
